@@ -1,0 +1,5 @@
+package org.doctorapp.repository;
+
+public class DoctorMapper {
+
+}

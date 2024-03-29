@@ -1,0 +1,25 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="searchServlet">
+<h1> Search Doctor </h1>
+	Enter Doctor Name<input type="text" name="doctorname" placeholder="Doctor Name"></input><br>
+	Enter Speciality<input type="text" name="speciality" placeholder="Speciality"></input><br>
+	
+	
+	<input type="submit" value="Search"></input>
+	<br><br><br>
+	
+	
+	<a href="login.jsp">Admin</a>
+	
+	
+</form>
+</body>
+</html>

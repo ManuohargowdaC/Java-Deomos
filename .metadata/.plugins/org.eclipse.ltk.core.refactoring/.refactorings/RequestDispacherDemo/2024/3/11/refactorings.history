@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;RegisterServlet.java&apos; to &apos;RequestDispacherDemo/src/main/java/com.voya.controlers&apos;&#x0D;&#x0A;- Original project: &apos;RequestDispacherDemo&apos;&#x0D;&#x0A;- Destination element: &apos;RequestDispacherDemo/src/main/java/com.voya.controlers&apos;&#x0D;&#x0A;- Original element: &apos;RegisterServlet.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/main\/java&lt;com.voya.controlers" element1="/src\/main\/java&lt;{RegisterServlet.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" log="/src\/main\/java&lt;&#x09;/src\/main\/java&lt;com.voya.controlers" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1710478855365" units="1" version="1.0"/>
+</session>
